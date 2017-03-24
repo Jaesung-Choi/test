@@ -1,7 +1,8 @@
 #include <stdio>
-
-Hello()
-
+void intintint( )
+{
+	cout<<"qweqwe"<<endl;
+}
 
 int main()
 {
