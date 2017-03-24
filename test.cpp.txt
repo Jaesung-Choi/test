@@ -8,7 +8,7 @@ void intintint( )
 
 int main()
 {
-	printf("두번째 수정");
+	intintint( );
 
 dddddddddddddd
 
