@@ -1,5 +1,8 @@
 #include <stdio>
 
+Hello()
+
+
 int main()
 {
 	printf("두번째 수정");
