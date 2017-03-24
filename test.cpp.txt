@@ -9,6 +9,7 @@ void intintint( )
 int main()
 {
 	마스터브랜치
+	브랜치2에서 작업
 	intintint( );
 
 dddddddddddddd
